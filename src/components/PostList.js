@@ -11,7 +11,7 @@ class PostList extends Component {
               name: "Eduardo Lourenço",
               avatar: "avatar.png"
             },
-            date: "29 May 2020",
+            date: "May 29th, 2020",
             time: "07:30 PM",
             content: "Hey, what's up guys?\n\nthis is an application that is part of my ReactJs studies.",
             comments: [
@@ -55,7 +55,7 @@ class PostList extends Component {
               name: "Richard Carrol",
               avatar: "avatar.png"
             },
-            date: "27 May 2020",
+            date: "May 27th, 2020",
             time: "08:00 AM",
             content: "Good morning guys, how is a going?\n\nI created this post with the intention of helping people in the group to leverage their career.  Deposit in the comments the link to Gihub and your linkendin.",
             comments: [
